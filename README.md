@@ -25,10 +25,6 @@ The script uses K-Means, a Machine Learning clustering algorithm, to cluster all
 - Download script.py in your required directory.
 - Run python script.py _yourfilenamehere.png_ in your terminal.
 
-![terminalss](https://user-images.githubusercontent.com/43616959/60660184-d648c900-9e74-11e9-9e94-08d4016753e4.png)
-
-
-
 ### Note
 > Use a .png file as JPEG uses lossy compression which may lead to undesired result.
 
